@@ -1,4 +1,5 @@
- Building a Recurrent Neural network implementing LSTM cells in order to generate a new Simpsons TV script. The Simpsons dataset of scripts from 27 seasons was used. The Neural Network generates a new TV script for a scene at Moe's Tavern. The RNN was trained on GPU using FloydHub.
+# Overview
+Building a Recurrent Neural network implementing LSTM cells in order to generate a new Simpsons TV script. The Simpsons dataset of scripts from 27 seasons was used. The Neural Network generates a new TV script for a scene at Moe's Tavern. The RNN was trained on GPU using FloydHub.
 
 In order to run it, setup Conda, then activate an environment:
 ```
